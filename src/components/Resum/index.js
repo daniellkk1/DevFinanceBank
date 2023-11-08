@@ -88,7 +88,7 @@ import { IoArrowDownCircleOutline, IoArrowUpCircleOutline, IoCashOutline } from 
         <C.DivInput>
           <C.InputDesc 
             value={desc}
-            placeholder='Descrição' 
+            placeholder='Deposito' 
             onChange={(e) => setDesc(e.target.value)}>
           </C.InputDesc>
 
